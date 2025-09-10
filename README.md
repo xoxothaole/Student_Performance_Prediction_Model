@@ -22,27 +22,27 @@ Without previous grades: Early prediction capability for immediate intervention
 
 ## Model Comparison
 
-- ### Linear Regression
-- ### Support Vector Machine (SVM) Regression
-- ### Lasso Regression
-- ### Cross-validation for robust evaluation
+- Linear Regression
+- Support Vector Machine (SVM) Regression
+- Lasso Regression
+- Cross-validation for robust evaluation
 
 ## Technologies Used
 
-- ### Python: Core programming language
-- ### scikit-learn: Machine learning algorithms and preprocessing
-- ### pandas: Data manipulation and analysis
-- ### matplotlib: Data visualization
-- ### numpy: Numerical computing
+- Python: Core programming language
+- scikit-learn: Machine learning algorithms and preprocessing
+- pandas: Data manipulation and analysis
+- matplotlib: Data visualization
+- numpy: Numerical computing
 
 ## Machine Learning Pipeline
 
-- ### Data Exploration: Correlation analysis and feature visualization
-- ### Feature Engineering: Custom transformer for absence data aggregation
-- ### Preprocessing: Separate pipelines for numeric, categorical, and ordinal features
-- ### Model Training: Cross-validation comparison of multiple algorithms
-- ### Hyperparameter Tuning: GridSearchCV optimization for best models
-- ### Evaluation: RMSE and R² metrics on test set
+- Data Exploration: Correlation analysis and feature visualization
+- Feature Engineering: Custom transformer for absence data aggregation
+- Preprocessing: Separate pipelines for numeric, categorical, and ordinal features
+- Model Training: Cross-validation comparison of multiple algorithms
+- Hyperparameter Tuning: GridSearchCV optimization for best models
+- Evaluation: RMSE and R² metrics on test set
 
 ## Results
 
